@@ -45,6 +45,14 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+/*end of middle background*/
+/*my work section*/
+.work-intro {
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	margin-top: 1em;
+	font-size: 1.5em;
+}
 /*grid framework*/
 *, *:before, *:after {
   box-sizing border-box;
