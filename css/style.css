@@ -34,10 +34,17 @@ body {
 .coding-icons li {
 	display: inline-block;
 	font-size: 4em;
-	margin-left: 2em;
+	margin-left: 1.8em;
 	margin-top: 1em;
 }
 /*end of about me section*/
+/*middle background section*/
+.middle-background {
+	background-image: url('../img/middle-background.jpg');
+	height: 650px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 /*grid framework*/
 *, *:before, *:after {
   box-sizing border-box;
