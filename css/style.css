@@ -1,0 +1,21 @@
+section, header {
+	border: 1px solid red;
+}
+body {
+	background-color: LightGrey;
+}
+.intro-section {
+	background-image: url('../img/header-background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	height: 500px;
+}
+.intro-header {
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	font-size: 2em;
+	letter-spacing: 0.5em;
+	color: #1F3D00;
+	margin-top: 2em;
+}
