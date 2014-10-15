@@ -53,6 +53,11 @@ body {
 	margin-top: 1em;
 	font-size: 1.5em;
 }
+.work-nav img {
+	margin-left: 43em;
+}
+/*end of work section*/
+
 /*grid framework*/
 *, *:before, *:after {
   box-sizing border-box;
