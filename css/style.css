@@ -1,4 +1,4 @@
-section, header, div {
+section, header, div, footer {
 	border: 1px solid red;
 }
 body {
@@ -28,6 +28,16 @@ body {
 	margin-top: 1em;
 	font-size: 1.5em;
 }
+.bio-intro h1 {
+	font-size: 2em;
+}
+.coding-icons li {
+	display: inline-block;
+	font-size: 4em;
+	margin-left: 2em;
+	margin-top: 1em;
+}
+/*end of about me section*/
 /*grid framework*/
 *, *:before, *:after {
   box-sizing border-box;
