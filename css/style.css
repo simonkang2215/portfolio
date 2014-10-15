@@ -1,6 +1,4 @@
-section, header, div, footer {
-	border: 1px solid red;
-}
+
 body {
 	background-color: LightGrey;
 }
@@ -57,7 +55,21 @@ body {
 	margin-left: 43em;
 }
 /*end of work section*/
-
+/*footer section*/
+.icons li {
+	font-size: 3em;
+	display: inline-block;
+	margin-left:7em;
+	margin-top: 1em;
+}
+.social-icons {
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	margin-top: 1em;
+	font-size: 1.5em;
+	background-color: #E6E62E;
+}
+/*end of footer section*/
 /*grid framework*/
 *, *:before, *:after {
   box-sizing border-box;
